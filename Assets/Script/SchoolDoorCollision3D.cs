@@ -21,3 +21,4 @@ public class SchoolDoorCollision3D : MonoBehaviour
         }
     }
 }
+
