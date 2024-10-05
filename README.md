@@ -29,8 +29,9 @@ To run this project, please follow these steps:
 ## Screenshots
 <p align="center">
   <img width="100%" src="/Screenshots/1.png" alt="Outside Scene">
-  <img width="100%" src="/Screenshots/2.png" alt="School Building Scene">
-  <img width="100%" src="/Screenshots/3.png" alt="Classroom Scene 1">
-  <img width="100%" src="/Screenshots/4.png" alt="Classroom Scene 2">
-  <img width="100%" src="/Screenshots/5.png" alt="Basketball Field Scene">
+  <img width="100%" src="/Screenshots/2.png" alt="Inside Class Scene">
+  <img width="100%" src="/Screenshots/3.png" alt="Ouside Class Podium Hover">
+  <img width="100%" src="/Screenshots/4.png" alt="School Building">
+  <img width="100%" src="/Screenshots/5.png" alt="Inside Class Look">
+  <img width="100%" src="/Screenshots/6.png" alt="Inside Class Podium Hover">
 </p>
